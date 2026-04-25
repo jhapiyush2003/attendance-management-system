@@ -23,7 +23,13 @@ Python desktop application for managing student attendance using SQLite database
 To simplify student attendance tracking and record management using a desktop-based system.
 
 ## Project Output
+![Main UI](main.png.png)
 
+![Add Student](add.png.png)
+
+![Attendance Marked](attendance-marked.png (2).png)
+
+![Summary Report](summary.png.png)
 
 
 ## How to Run
